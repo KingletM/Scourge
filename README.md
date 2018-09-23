@@ -1,3 +1,3 @@
 # Scourge
 one
-在恶魔的惩罚下，巫妖王诞生的唯一目的就是：统帅被称为天灾的庞大亡灵军队。
+Under the demon's punishment, the only purpose of the Lich King's birth was to command a large undead army called the Scourge.
